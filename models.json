@@ -1,0 +1,12 @@
+{
+    "hugging_face": [
+        {
+            "repo": "stabilityai/stable-diffusion-3.5-large",
+            "filename": "sd3.5_large.safetensors"
+        }
+    ],
+
+    "civit": [
+        "626990"
+    ]
+}
