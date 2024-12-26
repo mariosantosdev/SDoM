@@ -48,6 +48,7 @@ a1111_image = (
         f"rm -rf {MODELS_PATH}",
         f"mkdir {MODELS_PATH}"
     )
+    .add_local_file("./models.json", "/root/models.json")
 )
 
 app = modal.App("SDoM-a1111", image=a1111_image)
