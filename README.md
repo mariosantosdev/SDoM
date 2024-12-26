@@ -1,5 +1,7 @@
 # SDoM - Stable Diffusion on Modal
 
+This project was built to executes stable diffusion on Modal easly and persist the weights easily between different accounts.
+
 
 ## Getting Started
 
